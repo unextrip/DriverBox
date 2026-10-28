@@ -1,0 +1,6 @@
+{
+  "name": "DriverBox",
+  "description": "Tu Negocio Sobre Ruedas: Controla, Suma y Gasta Inteligente. Haz caja diaria de Uber, DiDi, InDrive y Servicios Privados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
